@@ -21,7 +21,7 @@ repository               : "davidxu999.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo.jpg"
   name             : "Shengwei Xu"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate"
@@ -35,7 +35,7 @@ author:
   orcid            : # URL
 
   # Social media
-  linkedin         : "https://www.linkedin.com/in/shengwei-xu-1392702b5"
+  linkedin         : "shengwei-xu-1392702b5"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
