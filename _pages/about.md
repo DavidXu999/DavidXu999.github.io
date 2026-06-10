@@ -20,7 +20,7 @@ Publications
 ======
 *   **Ad Insertion in LLM-Generated Responses.**  
     *In the Workshop on Frontiers of Online Advertising at the 26th ACM Conference on Economics and Computation (**EC'25**)*  
-    **S. Xu**, Z. Chen, X. Deng, Z. Huang, G. Schoenebeck.  
+    **S. Xu**\*, Z. Chen\*, X. Deng, Z. Huang, G. Schoenebeck.  
     \[[paper](https://arxiv.org/abs/2601.19435)]
 
 *   **Stochastically Dominant Peer Prediction.**  
