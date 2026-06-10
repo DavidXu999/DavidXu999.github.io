@@ -17,12 +17,12 @@ My current research investigates strategic behavior in interactions between agen
 Publications
 ======
 *   **Ad Insertion in LLM-Generated Responses.**  
-    *arXiv preprint, 2026*  
+    *In the Workshop on Frontiers of Online Advertising at the 26th ACM Conference on Economics and Computation (**EC'25**)*  
     S. Xu, Z. Chen, X. Deng, Z. Huang, G. Schoenebeck.  
     \[[Link](https://arxiv.org/abs/2601.19435)]
 
 *   **Stochastically Dominant Peer Prediction.**  
-    *arXiv preprint, 2025*  
+    *In Advances in Neural Information Processing Systems (**NeurIPS 2025**)*  
     Y. Zhang, S. Xu, D. Pennock, G. Schoenebeck.  
     \[[Link](https://arxiv.org/abs/2506.02259)]
 
