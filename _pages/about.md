@@ -36,12 +36,12 @@ Publications
 *   **Eliciting Informative Text Evaluations with Large Language Models.**  
     *In Proceedings of the 25th ACM Conference on Economics and Computation (**EC'24**)*  
     Y. Lu\*, **S. Xu**\*, Y. Zhang, Y. Kong, G. Schoenebeck.  
-    \[[paper](https://arxiv.org/pdf/2405.15077)] \[[Oral](https://www.youtube.com/watch?v=_x324_kj2pQ&t=426s)]
+    \[[paper](https://arxiv.org/pdf/2405.15077)] \[[oral](https://www.youtube.com/watch?v=_x324_kj2pQ&t=426s)]
 
 *   **Spot Check Equivalence: An Interpretable Metric for Information Elicitation Mechanisms.**  
     *In Proceedings of the ACM Web Conference 2024 (**WWW'24**)*  
     **S. Xu**\*, Y. Zhang, P. Resnick, G. Schoenebeck.  
-    \[[paper](https://dl.acm.org/doi/10.1145/3589334.3645679)] \[[Oral](https://www.youtube.com/watch?v=gVvokeH1QTE&list=PL_4c34HZDoN6Ysc_Xw1V3V-M9KESB9bJ9&index=165)]
+    \[[paper](https://dl.acm.org/doi/10.1145/3589334.3645679)] \[[oral](https://www.youtube.com/watch?v=gVvokeH1QTE&list=PL_4c34HZDoN6Ysc_Xw1V3V-M9KESB9bJ9&index=165)]
 
 *   **BONUS! Maximizing Surprise.**  
     *In Proceedings of the ACM Web Conference 2022 (**WWW'22**)*  
