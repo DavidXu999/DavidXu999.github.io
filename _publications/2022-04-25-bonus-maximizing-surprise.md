@@ -6,7 +6,7 @@ excerpt: 'An analysis of optimal bonus sizing in multi-round competitions to max
 date: 2022-04-25
 venue: 'Proceedings of the ACM Web Conference 2022 (WWW 2022)'
 paperurl: 'https://arxiv.org/abs/2107.08207'
-citation: 'Z. Huang, Y. Kong, T. X. Liu, G. Schoenebeck, and <strong>S. Xu</strong>. (2022). "BONUS! Maximizing Surprise." <i>Proceedings of the ACM Web Conference 2022 (WWW 2022)</i>.'
+citation: 'Zhihuan Huang, Yuqing Kong, Tracy Xiao Liu, Grant Schoenebeck, and <strong>Shengwei Xu</strong>. (2022). "BONUS! Maximizing Surprise." <i>Proceedings of the ACM Web Conference 2022 (WWW 2022)</i>.'
 ---
 
 We study optimal bonus structures for maximizing surprise in multi-round competitions.
