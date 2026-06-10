@@ -26,6 +26,8 @@ Work experience
 
 Research interests
 ======
+* Aligned information elicitation for text
+* Statistical and strategic alignment of evaluation systems
 * Mechanism design
 * Information elicitation
 * Large Language Models

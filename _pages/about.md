@@ -7,52 +7,54 @@ redirect_from:
   - /about.html
 ---
 
-I am Shengwei Xu. I received my Ph.D. from the University of Michigan's School of Information, where I was advised by [Prof. Grant Schoenebeck](https://schoeneb.people.si.umich.edu/). I am joining Google as a Software Engineer. I received my B.S. in Computer Science from Peking University in 2021, advised by [Prof. Yuqing Kong](https://cfcs.pku.edu.cn/yuqkong/).
+I am Shengwei Xu. I received my Ph.D. from the University of Michigan's School of Information, where I was advised by [Prof. Grant Schoenebeck](https://schoeneb.people.si.umich.edu/). **I am joining Google in June 2026.** I received my B.S. in Computer Science from Peking University in 2021, advised by [Prof. Yuqing Kong](https://cfcs.pku.edu.cn/yuqkong/).
 
 
 Research Interests
 ======
-My current research investigates strategic behavior in interactions between agents (human and AI) and algorithm, focusing on mechanism design, information elicitation, and their intersection with Large Language Models.
+My dissertation, **Aligned Information Elicitation for Text**, studies how to design evaluation and feedback systems for text that are aligned with both human judgment and strategic incentives. The central idea is that statistical alignment is not enough on its own: evaluation scores should correlate with human ratings, but they also need strategic alignment, so that the scoring rule discourages untruthful or low-quality reports even when those reports are out-of-distribution. 
+
+More broadly, my research investigates incentives and strategic behavior in interactions between agents (human and AI) and algorithm, including mechanism design, information elicitation and evaluation, and their intersection with Large Language Models.
 
 Publications
 ======
 *   **Ad Insertion in LLM-Generated Responses.**  
     *In the Workshop on Frontiers of Online Advertising at the 26th ACM Conference on Economics and Computation (**EC'25**)*  
-    S. Xu, Z. Chen, X. Deng, Z. Huang, G. Schoenebeck.  
-    \[[Link](https://arxiv.org/abs/2601.19435)]
+    **S. Xu**, Z. Chen, X. Deng, Z. Huang, G. Schoenebeck.  
+    \[[paper](https://arxiv.org/abs/2601.19435)]
 
 *   **Stochastically Dominant Peer Prediction.**  
     *In Advances in Neural Information Processing Systems (**NeurIPS 2025**)*  
-    Y. Zhang, S. Xu, D. Pennock, G. Schoenebeck.  
-    \[[Link](https://arxiv.org/abs/2506.02259)]
+    Y. Zhang, **S. Xu**, D. Pennock, G. Schoenebeck.  
+    \[[paper](https://arxiv.org/abs/2506.02259)]
 
 *   **Benchmarking LLMs' Judgments with No Gold Standard.**  
     *In Proceedings of the Thirteenth International Conference on Learning Representations (**ICLR 2025**)*  
-    S. Xu\*, Y. Lu\*, G. Schoenebeck, Y. Kong.  
-    \[[Link](https://openreview.net/forum?id=uE84MGbKD7)]
+    **S. Xu**\*, Y. Lu\*, G. Schoenebeck, Y. Kong.  
+    \[[paper](https://openreview.net/forum?id=uE84MGbKD7)]
 
 *   **Eliciting Informative Text Evaluations with Large Language Models.**  
     *In Proceedings of the 25th ACM Conference on Economics and Computation (**EC'24**)*  
-    Y. Lu\*, S. Xu\*, Y. Zhang, Y. Kong, G. Schoenebeck.  
-    \[[Link](https://arxiv.org/pdf/2405.15077)] \[[Oral](https://www.youtube.com/watch?v=_x324_kj2pQ&t=426s)]
+    Y. Lu\*, **S. Xu**\*, Y. Zhang, Y. Kong, G. Schoenebeck.  
+    \[[paper](https://arxiv.org/pdf/2405.15077)] \[[Oral](https://www.youtube.com/watch?v=_x324_kj2pQ&t=426s)]
 
 *   **Spot Check Equivalence: An Interpretable Metric for Information Elicitation Mechanisms.**  
     *In Proceedings of the ACM Web Conference 2024 (**WWW'24**)*  
-    S. Xu\*, Y. Zhang, P. Resnick, G. Schoenebeck.  
-    \[[Link](https://dl.acm.org/doi/10.1145/3589334.3645679)] \[[Oral](https://www.youtube.com/watch?v=gVvokeH1QTE&list=PL_4c34HZDoN6Ysc_Xw1V3V-M9KESB9bJ9&index=165)]
+    **S. Xu**\*, Y. Zhang, P. Resnick, G. Schoenebeck.  
+    \[[paper](https://dl.acm.org/doi/10.1145/3589334.3645679)] \[[Oral](https://www.youtube.com/watch?v=gVvokeH1QTE&list=PL_4c34HZDoN6Ysc_Xw1V3V-M9KESB9bJ9&index=165)]
 
 *   **BONUS! Maximizing Surprise.**  
     *In Proceedings of the ACM Web Conference 2022 (**WWW'22**)*  
-    Z. Huang, Y. Kong, X. Liu, G. Schoenebeck, S. Xu.  
-    \[[Link](https://dl.acm.org/doi/abs/10.1145/3485447.3512049)]
+    Z. Huang, Y. Kong, X. Liu, G. Schoenebeck, **S. Xu**.  
+    \[[paper](https://dl.acm.org/doi/abs/10.1145/3485447.3512049)]
 
 *   **SURPRISE! and When to Schedule It.**  
     *In Proceedings of the 30th International Joint Conference on Artificial Intelligence (**IJCAI-21**)*  
-    Z. Huang\*, S. Xu\*, Y. Shan, Y. Lu, Y. Kong, X. Liu, G. Schoenebeck.  
-    \[[Link](https://www.ijcai.org/proceedings/2021/0036.pdf)]
+    Z. Huang\*, **S. Xu**\*, Y. Shan, Y. Lu, Y. Kong, X. Liu, G. Schoenebeck.  
+    \[[paper](https://www.ijcai.org/proceedings/2021/0036.pdf)]
 
 
-Tutorials and Workshops
+Tutorials
 ======
 *   **Information Elicitation Meets Large Language Models: Progress, Opportunities, and Challenges.**
     *Tutorial in the 20th Conference on Web and Internet Economics (WINE 2024)*
