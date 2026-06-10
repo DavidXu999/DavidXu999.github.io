@@ -12,9 +12,9 @@ I am Shengwei Xu. I received my Ph.D. from the University of Michigan's School o
 
 Research Interests
 ======
-My dissertation, **Aligned Information Elicitation for Text**, studies how to design evaluation and feedback systems for text that are aligned with both human judgment and strategic incentives. The central idea is that statistical alignment is not enough on its own: evaluation scores should correlate with human ratings, but they also need strategic alignment, so that the scoring rule discourages untruthful or low-quality reports even when those reports are out-of-distribution. 
+My dissertation, **Aligned Information Elicitation for Text**, studies how to design elicitation and evaluation methods for text that are aligned with the informativeness. The central idea is that statistical alignment is not enough on its own: evaluation scores should correlate with human ratings, but they also need strategic alignment, so that the scoring rule discourages untruthful or low-quality reports even when those reports are out-of-distribution. 
 
-More broadly, my research investigates incentives and strategic behavior in interactions between agents (human and AI) and algorithm, including mechanism design, information elicitation and evaluation, and their intersection with Large Language Models.
+More broadly, my research investigates incentives and strategic behavior in interactions between agents (human and AI) and algorithm, including mechanism design, information elicitation, and their intersection with Large Language Models.
 
 Publications
 ======
