@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Shengwei Xu, a 4th-year Ph.D. candidate at the University of Michigan's School of Information, advised by [Prof. Grant Schoenebeck](https://schoeneb.people.si.umich.edu/). I received my B.S. in Computer Science from Peking University in 2021, advised by [Prof. Yuqing Kong](https://cfcs.pku.edu.cn/yuqkong/).
+I am Shengwei Xu. I received my Ph.D. from the University of Michigan's School of Information, where I was advised by [Prof. Grant Schoenebeck](https://schoeneb.people.si.umich.edu/). I am joining Google as a Software Engineer. I received my B.S. in Computer Science from Peking University in 2021, advised by [Prof. Yuqing Kong](https://cfcs.pku.edu.cn/yuqkong/).
 
 
 Research Interests
@@ -16,6 +16,16 @@ My current research investigates strategic behavior in interactions between agen
 
 Publications
 ======
+*   **Ad Insertion in LLM-Generated Responses.**  
+    *arXiv preprint, 2026*  
+    S. Xu, Z. Chen, X. Deng, Z. Huang, G. Schoenebeck.  
+    \[[Link](https://arxiv.org/abs/2601.19435)]
+
+*   **Stochastically Dominant Peer Prediction.**  
+    *arXiv preprint, 2025*  
+    Y. Zhang, S. Xu, D. Pennock, G. Schoenebeck.  
+    \[[Link](https://arxiv.org/abs/2506.02259)]
+
 *   **Benchmarking LLMs' Judgments with No Gold Standard.**  
     *In Proceedings of the Thirteenth International Conference on Learning Representations (**ICLR 2025**)*  
     S. Xu\*, Y. Lu\*, G. Schoenebeck, Y. Kong.  
@@ -27,12 +37,12 @@ Publications
     \[[Link](https://arxiv.org/pdf/2405.15077)] \[[Oral](https://www.youtube.com/watch?v=_x324_kj2pQ&t=426s)]
 
 *   **Spot Check Equivalence: An Interpretable Metric for Information Elicitation Mechanisms.**  
-    *In Proceedings of the ACM Web Conference 2024 (**WWW’24**)*  
+    *In Proceedings of the ACM Web Conference 2024 (**WWW'24**)*  
     S. Xu\*, Y. Zhang, P. Resnick, G. Schoenebeck.  
     \[[Link](https://dl.acm.org/doi/10.1145/3589334.3645679)] \[[Oral](https://www.youtube.com/watch?v=gVvokeH1QTE&list=PL_4c34HZDoN6Ysc_Xw1V3V-M9KESB9bJ9&index=165)]
 
 *   **BONUS! Maximizing Surprise.**  
-    *In Proceedings of the ACM Web Conference 2022 (**WWW’22**)*  
+    *In Proceedings of the ACM Web Conference 2022 (**WWW'22**)*  
     Z. Huang, Y. Kong, X. Liu, G. Schoenebeck, S. Xu.  
     \[[Link](https://dl.acm.org/doi/abs/10.1145/3485447.3512049)]
 
@@ -44,9 +54,6 @@ Publications
 
 Tutorials and Workshops
 ======
-*   **Ad Insertion in LLM-generated Responses.**
-    *To appear in the Workshop on Frontiers of Online Advertising at the 26th ACM Conference on Economics and Computation (EC'25)*
-
 *   **Information Elicitation Meets Large Language Models: Progress, Opportunities, and Challenges.**
     *Tutorial in the 20th Conference on Web and Internet Economics (WINE 2024)*
     \[[Link](https://wine2024.org/#tutorials)]
@@ -56,11 +63,13 @@ Experiences
 ======
 
 ### Education
-- **University of Michigan**, School of Information, Ph.D. candidate, 2021 - present.
+- **University of Michigan**, School of Information, Ph.D., 2021 - 2026.
 - **Peking University**, School of EECS, B.S. in Computer Science, Summa Cum Laude, 2017 - 2021.
 
 ### Industry
-- **Google**, *Software Engineering Intern (PhD)*, May 2025 – Aug 2025
+- **Google**, *Incoming Software Engineer*, 2026.
+
+- **Google**, *Software Engineering Intern (PhD)*, May 2025 - Aug 2025.
   - Research and develop a policy classification model for ad safety that utilizes advertiser temporal behaviors.
   - Implement a temporal transformer neural network for multi-modality advertiser data with TensorFlow.
 
@@ -76,6 +85,3 @@ Experiences
   - Discrete Mathematics and Structures (I) and (II) (Spring 2020 and Fall 2020)
 
  
-
-
-
